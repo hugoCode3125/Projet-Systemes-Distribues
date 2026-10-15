@@ -1,10 +1,10 @@
-package ma.horse.gateway;
+package ma.horse.gatewayservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GatewayApplicationTests {
+class GatewayServiceApplicationTests {
 
     @Test
     void contextLoads() {
